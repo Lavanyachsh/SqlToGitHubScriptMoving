@@ -70,5 +70,7 @@
     <Build Include="sps\Usp_AddCountries.sql" />
     <Build Include="sps\AddEmployee.sql" />
     <Build Include="functions\fcube.sql" />
+    <Build Include="tables\cities.sql" />
+    <Build Include="sps\User_SignIn.sql" />
   </ItemGroup>
 </Project>
